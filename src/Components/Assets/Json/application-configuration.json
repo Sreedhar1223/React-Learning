@@ -1,0 +1,17 @@
+{
+  "url":"",
+  "apiUrl":"",
+  "webSocketUrl":"",
+  "modules":[
+   {
+    "moduleName":"Deployment Management",
+    "identifier":"deployment management",
+    "key":"deployment_management"
+   },
+   {
+    "moduleName":"License Management",
+    "identifier":"license management",
+    "key":"license_management"
+   }
+  ]
+} 
