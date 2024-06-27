@@ -1,0 +1,23 @@
+{
+  "url":"",
+  "apiUrl":"",
+  "webSocketUrl":"",
+  "modules":[
+   {
+    "moduleName":"Deployment Management",
+    "identifier":"deployment management",
+    "devFilePath":"../Assets/Json/deployment-management-configuration.json",
+    "prodFilePath":"../Assets/Json/deployment-management-configuration-prod.json",
+    "routePath":"/deployment-management/insights",
+    "key":"deployment_management"
+   },
+   {
+    "moduleName":"License Management",
+    "identifier":"license management",
+    "devFilePath":"../Assets/Json/license-management-configuration.json",
+    "prodFilePath":"../Assets/Json/license-management-configuration-prod.json",
+    "routePath":"/license-management/home",
+    "key":"license_management"
+   }
+  ]
+} 

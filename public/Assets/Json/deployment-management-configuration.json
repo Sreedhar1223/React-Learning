@@ -1,0 +1,30 @@
+{
+   "moduleName": "Deployment Management",
+   "key": "deployment_management",
+   "pages": [
+      {
+         "pageName": "INSIGHTS",
+         "routePath": "/deployment-management/insights",
+         "iconPath": "",
+         "color": "white"
+      },
+      {
+         "pageName": "UAM",
+         "routePath": "/deployment-management/uam",
+         "iconPath": "",
+         "color": "white"
+      },
+      {
+         "pageName": "INFRASTRUCTURE",
+         "routePath": "/deployment-management/infrastructure",
+         "iconPath": "",
+         "color": "white"
+      },
+      {
+         "pageName": "ANALYTICS",
+         "routePath": "/deployment-management/analytics",
+         "iconPath": "",
+         "color": "white"
+      }
+   ]
+}

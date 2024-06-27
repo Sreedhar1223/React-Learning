@@ -1,0 +1,24 @@
+{
+    "moduleName": "License Management",
+    "key": "license_management",
+    "pages": [
+       {
+          "pageName": "HOME",
+          "routePath": "/license-management/home",
+          "iconPath": "",
+          "color": "white"
+       },
+       {
+          "pageName": "DASHBOARD",
+          "routePath": "/license-management/dashboard",
+          "iconPath": "",
+          "color": "white"
+       },
+       {
+          "pageName": "USER LOG",
+          "routePath": "/license-management/user-log",
+          "iconPath": "",
+          "color": "white"
+       }
+    ]
+ }

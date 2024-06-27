@@ -1,14 +1,11 @@
 // src/api/api.jsx
 
 import axios from 'axios';
-import ApplicationDevFile from '../Assets/Json/application-configuration.json'
-import ApplicationProdFile from '../Assets/Json/application-configuration-prod.json'
 const baseURL = ''; // Replace with your API base URL
 const environmentName = process.env.NODE_ENV
-const applicationFile = environmentName == 'development'? 'application-configuration.json':'application-configuration-prod.json'
-console.log('applicationFile',applicationFile)
+const applicationFile = environmentName === 'development'? '../Assets/Json/application-configuration.json':'../Assets/Json/application-configuration-prod.json'
 const axiosInstance = axios.create({
-  applicationFile,
+  baseURL,
   timeout: 5000, // Timeout of 5 seconds
   headers: {
     'Content-Type': 'application/json',
@@ -16,9 +13,19 @@ const axiosInstance = axios.create({
 });
 
 // Function to fetch data from the API
-export const fetchData = async () => {
+export const readConfigurationsData = async () => {
   try {
     const response = await axiosInstance.get(applicationFile);
+    return response.data; // Return data from the response
+  } catch (error) {
+    console.error('Error fetching data:', error);
+    throw error;
+  }
+};
+
+export const readModuleConfigurationsData = async (modulePath) => {
+  try {
+    const response = await axiosInstance.get(modulePath);
     return response.data; // Return data from the response
   } catch (error) {
     console.error('Error fetching data:', error);
