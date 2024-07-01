@@ -1,0 +1,2066 @@
+{
+    "companies": [
+        {
+            "companyName": "Natco",
+            "plants": [
+                {
+                    "plantName": "Natco-1",
+                    "id": "1",
+                    "applications": [
+                        {
+                            "applicationName": "Saftey Assistant",
+                            "id": 1,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-1",
+                                    "id": 1,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-1",
+                                    "id": 2
+                                },
+                                {
+                                    "unitName": "Natco-Unit-1",
+                                    "id": 3
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Schedule Assistant",
+                            "id": 2,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Live Streaming",
+                            "id": 3,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Health Assistant",
+                            "id": 4,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Manpower Counting",
+                            "id": 5,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        }
+                    ],
+                    "infraDetials": [
+                        {
+                            "infraName": "Relay-Natco-Chennai-1",
+                            "id": 1
+                        },
+                        {
+                            "infraName": "Relay-Natco-Chennai-2",
+                            "id": 2
+                        }
+                    ]
+                },
+                {
+                    "plantName": "Natco-2",
+                    "id": "2",
+                    "applications": [
+                        {
+                            "applicationName": "Saftey Assistant",
+                            "id": 1
+                        },
+                        {
+                            "applicationName": "Schedule Assistant",
+                            "id": 2
+                        },
+                        {
+                            "applicationName": "Live Streaming",
+                            "id": 3
+                        },
+                        {
+                            "applicationName": "Health Assistant",
+                            "id": 4
+                        },
+                        {
+                            "applicationName": "Manpower Counting",
+                            "id": 5
+                        }
+                    ],
+                    "infraDetials": [
+                        {
+                            "infraName": "Relay-Natco-Chennai-3",
+                            "id": 3
+                        },
+                        {
+                            "infraName": "Relay-Natco-Chennai-4",
+                            "id": 4
+                        }
+                    ]
+                },
+                {
+                    "plantName": "Natco-3",
+                    "id": "3",
+                    "applications": [
+                        {
+                            "applicationName": "Saftey Assistant",
+                            "id": 1
+                        },
+                        {
+                            "applicationName": "Schedule Assistant",
+                            "id": 2
+                        },
+                        {
+                            "applicationName": "Live Streaming",
+                            "id": 3
+                        },
+                        {
+                            "applicationName": "Health Assistant",
+                            "id": 4
+                        },
+                        {
+                            "applicationName": "Manpower Counting",
+                            "id": 5
+                        }
+                    ],
+                    "infraDetials": [
+                        {
+                            "infraName": "Relay-Natco-Chennai-5",
+                            "id": 5
+                        },
+                        {
+                            "infraName": "Relay-Natco-Chennai-6",
+                            "id": 6
+                        }
+                    ]
+                },
+                {
+                    "plantName": "Natco-4",
+                    "id": "4",
+                    "applications": [
+                        {
+                            "applicationName": "Saftey Assistant",
+                            "id": 1
+                        },
+                        {
+                            "applicationName": "Schedule Assistant",
+                            "id": 2
+                        },
+                        {
+                            "applicationName": "Live Streaming",
+                            "id": 3
+                        },
+                        {
+                            "applicationName": "Health Assistant",
+                            "id": 4
+                        },
+                        {
+                            "applicationName": "Manpower Counting",
+                            "id": 5
+                        }
+                    ],
+                    "infraDetials": [
+                        {
+                            "infraName": "Relay-Natco-Chennai-7",
+                            "id": 7
+                        },
+                        {
+                            "infraName": "Relay-Natco-Chennai-8",
+                            "id": 8
+                        }
+                    ]
+                }
+            ],
+            "users": [
+                {
+                    "email": "sreedhar@detecttechnologies.com",
+                    "id": 1,
+                    "isActive": true
+                },
+                {
+                    "email": "penchal@detecttechnologies.com",
+                    "id": 2,
+                    "isActive": true
+                },
+                {
+                    "email": "sai@detecttechnologies.com",
+                    "id": 3,
+                    "isActive": false
+                }
+            ]
+        },
+        {
+            "companyName": "Adani",
+            "plants": [
+                {
+                    "plantName": "Adani-1",
+                    "id": "5",
+                    "applications": [
+                        {
+                            "applicationName": "Saftey Assistant",
+                            "id": 1,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Schedule Assistant",
+                            "id": 2,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Live Streaming",
+                            "id": 3,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Health Assistant",
+                            "id": 4,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Manpower Counting",
+                            "id": 5,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        }
+                    ],
+                    "infraDetials": [
+                        {
+                            "infraName": "Relay-Adani-Mumbai-1",
+                            "id": 1
+                        },
+                        {
+                            "infraName": "Relay-Adani-Mumbai-2",
+                            "id": 2
+                        }
+                    ]
+                },
+                {
+                    "plantName": "Adani-2",
+                    "id": "6",
+                    "applications": [
+                        {
+                            "applicationName": "Saftey Assistant",
+                            "id": 1,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Schedule Assistant",
+                            "id": 2,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Live Streaming",
+                            "id": 3,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Health Assistant",
+                            "id": 4,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Manpower Counting",
+                            "id": 5,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        }
+                    ],
+                    "infraDetials": [
+                        {
+                            "infraName": "Relay-Adani-Mumbai-3",
+                            "id": 3
+                        },
+                        {
+                            "infraName": "Relay-Adani-Mumbai-4",
+                            "id": 4
+                        }
+                    ]
+                },
+                {
+                    "plantName": "Adani-3",
+                    "id": "7",
+                    "applications": [
+                        {
+                            "applicationName": "Saftey Assistant",
+                            "id": 1,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Schedule Assistant",
+                            "id": 2,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Live Streaming",
+                            "id": 3,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Health Assistant",
+                            "id": 4,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Manpower Counting",
+                            "id": 5,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        }
+                    ],
+                    "infraDetials": [
+                        {
+                            "infraName": "Relay-Adani-Mumbai-5",
+                            "id": 5
+                        },
+                        {
+                            "infraName": "Relay-Adani-Mumbai-6",
+                            "id": 6
+                        }
+                    ]
+                },
+                {
+                    "plantName": "Adani-4",
+                    "id": "8",
+                    "applications": [
+                        {
+                            "applicationName": "Saftey Assistant",
+                            "id": 1,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Schedule Assistant",
+                            "id": 2,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Live Streaming",
+                            "id": 3,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Health Assistant",
+                            "id": 4,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Manpower Counting",
+                            "id": 5,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        }
+                    ],
+                    "infraDetials": [
+                        {
+                            "infraName": "Relay-Adani-Mumbai-7",
+                            "id": 7
+                        },
+                        {
+                            "infraName": "Relay-Adani-Mumbai-8",
+                            "id": 8
+                        }
+                    ]
+                }
+            ],
+            "users": [
+                {
+                    "email": "sreedhar@detecttechnologies.com",
+                    "id": 1,
+                    "isActive": false
+                },
+                {
+                    "email": "penchal@detecttechnologies.com",
+                    "id": 2,
+                    "isActive": true
+                },
+                {
+                    "email": "sai@detecttechnologies.com",
+                    "id": 3,
+                    "isActive": false
+                }
+            ]
+        },
+        {
+            "companyName": "Vedanta",
+            "plants": [
+                {
+                    "plantName": "Vedanta-1",
+                    "id": "9",
+                    "applications": [
+                        {
+                            "applicationName": "Saftey Assistant",
+                            "id": 1,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Schedule Assistant",
+                            "id": 2,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Live Streaming",
+                            "id": 3,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Health Assistant",
+                            "id": 4,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Manpower Counting",
+                            "id": 5,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        }
+                    ],
+                    "infraDetials": [
+                        {
+                            "infraName": "Relay-Vedanta-Delhi-1",
+                            "id": 1
+                        },
+                        {
+                            "infraName": "Relay-Vedanta-Delhi-2",
+                            "id": 2
+                        }
+                    ]
+                },
+                {
+                    "plantName": "Vedanta-2",
+                    "id": "10",
+                    "applications": [
+                        {
+                            "applicationName": "Saftey Assistant",
+                            "id": 1,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Schedule Assistant",
+                            "id": 2,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Live Streaming",
+                            "id": 3,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Health Assistant",
+                            "id": 4,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Manpower Counting",
+                            "id": 5,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        }
+                    ],
+                    "infraDetials": [
+                        {
+                            "infraName": "Relay-Vedanta-Delhi-3",
+                            "id": 3
+                        },
+                        {
+                            "infraName": "Relay-Vedanta-Delhi-4",
+                            "id": 4
+                        }
+                    ]
+                },
+                {
+                    "plantName": "Vedanta-3",
+                    "id": "11",
+                    "applications": [
+                        {
+                            "applicationName": "Saftey Assistant",
+                            "id": 1,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Schedule Assistant",
+                            "id": 2,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Live Streaming",
+                            "id": 3,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Health Assistant",
+                            "id": 4,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Manpower Counting",
+                            "id": 5,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        }
+                    ],
+                    "infraDetials": [
+                        {
+                            "infraName": "Relay-Vedanta-Delhi-5",
+                            "id": 5
+                        },
+                        {
+                            "infraName": "Relay-Vedanta-Delhi-8",
+                            "id": 6
+                        }
+                    ]
+                },
+                {
+                    "plantName": "Vedanta-4",
+                    "id": "12",
+                    "applications": [
+                        {
+                            "applicationName": "Saftey Assistant",
+                            "id": 1,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Schedule Assistant",
+                            "id": 2,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Live Streaming",
+                            "id": 3,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Health Assistant",
+                            "id": 4,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        },
+                        {
+                            "applicationName": "Manpower Counting",
+                            "id": 5,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-4",
+                                    "id": 4,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-5",
+                                    "id": 5,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-6",
+                                    "id": 6,
+                                    "zones": []
+                                }
+                            ]
+                        }
+                    ],
+                    "infraDetials": [
+                        {
+                            "infraName": "Relay-Vedanta-Delhi-7",
+                            "id": 7
+                        },
+                        {
+                            "infraName": "Relay-Vedanta-Delhi-8",
+                            "id": 8
+                        }
+                    ]
+                }
+            ],
+            "users": [
+                {
+                    "email": "sreedhar@detecttechnologies.com",
+                    "id": 1,
+                    "isActive": true
+                },
+                {
+                    "email": "penchal@detecttechnologies.com",
+                    "id": 2,
+                    "isActive": false
+                },
+                {
+                    "email": "sai@detecttechnologies.com",
+                    "id": 3,
+                    "isActive": false
+                }
+            ]
+        }
+    ]
+}
