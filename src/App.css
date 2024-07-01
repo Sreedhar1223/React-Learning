@@ -1,6 +1,10 @@
-.App {
-  text-align: center;
+
+.selected{
+  border: 1px solid blue;
+  background-color: yellow;
 }
+
+
 
 .App-logo {
   height: 40vmin;

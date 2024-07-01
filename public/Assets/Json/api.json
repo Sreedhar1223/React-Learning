@@ -2,6 +2,7 @@
     "companies": [
         {
             "companyName": "Natco",
+            "id":1,
             "plants": [
                 {
                     "plantName": "Natco-1",
@@ -209,23 +210,120 @@
                     "applications": [
                         {
                             "applicationName": "Saftey Assistant",
-                            "id": 1
+                            "id": 1,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-1",
+                                    "id": 1,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-1",
+                                    "id": 2
+                                },
+                                {
+                                    "unitName": "Natco-Unit-1",
+                                    "id": 3
+                                }
+                            ]
                         },
                         {
                             "applicationName": "Schedule Assistant",
-                            "id": 2
+                            "id": 2,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-1",
+                                    "id": 1,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-1",
+                                    "id": 2
+                                },
+                                {
+                                    "unitName": "Natco-Unit-1",
+                                    "id": 3
+                                }
+                            ]
                         },
                         {
                             "applicationName": "Live Streaming",
-                            "id": 3
+                            "id": 3,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-1",
+                                    "id": 1,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-1",
+                                    "id": 2
+                                },
+                                {
+                                    "unitName": "Natco-Unit-1",
+                                    "id": 3
+                                }
+                            ]
                         },
                         {
                             "applicationName": "Health Assistant",
-                            "id": 4
+                            "id": 4,
+                            "units": [
+                                {
+                                    "unitName": "Natco-Unit-1",
+                                    "id": 1,
+                                    "zones": [
+                                        {
+                                            "zoneName": "Natco-Zone-1",
+                                            "id": 1
+                                        },
+                                        {
+                                            "zoneName": "Natco-Zone-2",
+                                            "id": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "unitName": "Natco-Unit-1",
+                                    "id": 2
+                                },
+                                {
+                                    "unitName": "Natco-Unit-1",
+                                    "id": 3
+                                }
+                            ]
                         },
                         {
                             "applicationName": "Manpower Counting",
-                            "id": 5
+                            "id": 5,
+                            "units": []
                         }
                     ],
                     "infraDetials": [
@@ -332,6 +430,7 @@
         },
         {
             "companyName": "Adani",
+            "id":2,
             "plants": [
                 {
                     "plantName": "Adani-1",
@@ -1198,6 +1297,7 @@
         },
         {
             "companyName": "Vedanta",
+            "id":3,
             "plants": [
                 {
                     "plantName": "Vedanta-1",
