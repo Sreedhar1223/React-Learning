@@ -20,12 +20,6 @@ const Insights = () => {
       setSelecteApplication(result?.companies[0]?.plants[0]?.applications?.[0]);
       setSelectedUnit(result?.companies[0]?.plants[0]?.applications?.[0]?.units?.[0]);
       setSelectedZone(result?.companies[0]?.plants[0]?.applications?.[0]?.units[0]?.zones?.[0]);
-      console.log(
-      //  'companies',result.companies[0],
-      //  'plants', result?.companies[0]?.plants[0],
-      //  'applications',result?.companies[0]?.plants[0]?.applications?.[0],
-       'units',result?.companies[0]?.plants[0]?.applications?.[0]?.units[0]
-      );
     } catch (error) {
       // Handle error
       console.error("Error fetching data:", error);
@@ -33,14 +27,14 @@ const Insights = () => {
   };
   const getPlantData = (selected,data) => {
     console.log(data)
-   if(selected == 'selectedCompany'){
+   if(selected === 'selectedCompany'){
     setSelectedCompany(data)
     setSelectedPlant(data?.plants?.[0])
     setSelecteApplication(data?.plants?.[0]?.applications?.[0])
     setSelectedUnit(data?.plants[0]?.applications?.[0]?.units?.[0]);
     setSelectedZone(data?.plants[0]?.applications?.[0]?.units[0]?.zones?.[0]);
    }
-   else if(selected == 'selectedPlant'){
+   else if(selected === 'selectedPlant'){
     setSelectedPlant(data)
     setSelecteApplication(data?.applications?.[0])
     setSelectedUnit(data?.applications?.[0]?.units?.[0]);
@@ -59,7 +53,7 @@ const Insights = () => {
       >
         {data?.companies?.map((data, index) => {
           return (
-            <div className={data.id == selectedCompany.id?'selected ms-2':'ms-2'}
+            <div className={data.id === selectedCompany.id?'selected ms-2':'ms-2'}
               key={index}
               onClick={() => getPlantData('selectedCompany',data)}
             >
@@ -76,7 +70,7 @@ const Insights = () => {
             return (
               <div
                 key={index}
-                className={data.id == selectedPlant.id?'selected ms-2':'ms-2'}
+                className={data.id === selectedPlant.id?'selected ms-2':'ms-2'}
                 onClick={(event) => getPlantData('selectedPlant',data)}
               >
                 {data.plantName}
@@ -93,7 +87,7 @@ const Insights = () => {
             return (
               <div
                 key={index}
-                className={data?.id == selecteApplication?.id?'selected ms-2':'ms-2'}
+                className={data?.id === selecteApplication?.id?'selected ms-2':'ms-2'}
                 onClick={(event) => getPlantData(event)}
               >
                 {data.applicationName}
@@ -109,7 +103,7 @@ const Insights = () => {
               return (
                 <div
                   key={index}
-                  className={data?.id == selectedUnit?.id?'selected ms-2':'ms-2'}
+                  className={data?.id === selectedUnit?.id?'selected ms-2':'ms-2'}
                   onClick={(event) => getPlantData(event)}
                 >
                   {data.unitName}
@@ -122,7 +116,7 @@ const Insights = () => {
               return (
                 <div
                   key={index}
-                  className={data?.id == selectedZone?.id?'selected ms-2':'ms-2'}
+                  className={data?.id === selectedZone?.id?'selected ms-2':'ms-2'}
                   onClick={(event) => getPlantData(event)}
                 >
                   {data.zoneName}

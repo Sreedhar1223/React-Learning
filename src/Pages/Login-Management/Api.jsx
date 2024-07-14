@@ -33,26 +33,3 @@ export const readModuleConfigurationsData = async (modulePath) => {
   }
 };
 
-export const loginConfigurationsData = async () => {
-  try {
-    const response = await axiosInstance.get('../Assets/Json/login.json');
-    return response.data; // Return data from the response
-  } catch (error) {
-    console.error('Error fetching data:', error);
-    throw error;
-  }
-};
-
-// Function to send data to the API
-export const sendData = async (data) => {
-  try {
-    const response = await axiosInstance.post('/post', data);
-    return response.data; // Return data from the response
-  } catch (error) {
-    console.error('Error sending data:', error);
-    throw error;
-  }
-};
-
-
-// You can add more API functions as needed
